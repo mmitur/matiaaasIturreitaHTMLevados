@@ -1,0 +1,90 @@
+.fondo{    
+    background-image:url(img/black-concrete-wall.jpg);   
+}
+.fondoBody{
+    background-color: #999799;
+}
+#idLogo{
+    margin-top:20px;
+    width: 3%;
+    min-width: 100px;
+  
+}
+.fondok{
+    /*background: linear-gradient( #bc5d2e, #f34213);*/
+    background-color: #191919;
+}
+#navegadorMarg{
+    margin-top:50px;
+}
+.carousel-inner img {
+    height: 900px;
+    min-height: 600px;
+    width: 400px;
+}
+.sizeNav{
+    width: 50%;
+}
+
+.colorLink{
+    color: black;
+}
+.mismowid{
+    width: 20%;
+    height: 60;
+    min-width: 150px;
+}
+.aps:hover{
+    background-color:black;
+    border-radius: 15px;
+}
+.aps{
+    border-radius: 15px;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+h5{
+    color: white;
+    font-weight: bolder;
+}
+p{
+    color: white;
+    font-weight: bolder;
+}
+.brp{
+    border: 20px;
+    border-radius: 20px;
+}
+.h1col{
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.parrafont{
+    font-size: 20px;
+}
+
+.bordecolapsado{
+    border-collapse: collapse;
+}
+.sizeFoot{
+    height: 150px;
+    min-height: 200px;
+}
+.marginclase{
+    margin-left: 10px;
+}
+body{
+    margin: 0;   /* NUEVO */
+    position: relative;
+}
+.positionabso{
+    position: absolute;
+    bottom: -500px;
+}
